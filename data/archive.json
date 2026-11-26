@@ -1,5 +1,103 @@
 [
  {
+  "date": "2026-11-26",
+  "country": "Tunisia",
+  "picks": [
+   {
+    "slot": "Breakfast",
+    "id": "soft-scramble",
+    "note": "Taste first. Melt half the butter over low heat; add eggs.",
+    "seo": "Soft Scramble, Chive Butter: 8-Minute French Recipe",
+    "missingVideos": [
+     "instagram",
+     "tiktok",
+     "snapchat",
+     "facebook",
+     "youtube",
+     "x",
+     "reddit"
+    ]
+   },
+   {
+    "slot": "Lunch",
+    "id": "turkey-lettuce-cups",
+    "note": "Taste first. Add ginger and garlic for 1 minute.",
+    "seo": "Ginger Turkey Lettuce Cups: 18-Minute Thai Recipe",
+    "missingVideos": [
+     "instagram",
+     "tiktok",
+     "snapchat",
+     "facebook",
+     "youtube",
+     "x",
+     "reddit"
+    ]
+   },
+   {
+    "slot": "Dinner",
+    "id": "sheet-pan-gnocchi",
+    "note": "Taste first. Toss gnocchi, tomatoes and onion with oil and salt on a sheet pan.",
+    "seo": "Crispy Sheet-Pan Gnocchi: 25-Minute Italian Recipe",
+    "missingVideos": [
+     "instagram",
+     "tiktok",
+     "snapchat",
+     "facebook",
+     "youtube",
+     "x",
+     "reddit"
+    ]
+   },
+   {
+    "slot": "Snack",
+    "id": "cottage-berry",
+    "note": "Taste first. Top with berries and a little honey.",
+    "seo": "Whipped Cottage Cheese, Berries: 4-Minute American Recipe",
+    "missingVideos": [
+     "instagram",
+     "tiktok",
+     "snapchat",
+     "facebook",
+     "youtube",
+     "x",
+     "reddit"
+    ]
+   },
+   {
+    "slot": "Snack",
+    "id": "edamame-sea-salt",
+    "note": "Taste first. Add edamame and char 4 minutes, tossing.",
+    "seo": "Blistered Edamame: 6-Minute Japanese Recipe",
+    "missingVideos": [
+     "instagram",
+     "tiktok",
+     "snapchat",
+     "facebook",
+     "youtube",
+     "x",
+     "reddit"
+    ]
+   },
+   {
+    "slot": "World · Tunisia",
+    "id": "shakshuka",
+    "note": "Taste first. Add garlic, paprika and cumin for 30 seconds.",
+    "seo": "Weeknight Shakshuka: 14-Minute Tunisian Recipe",
+    "missingVideos": [
+     "instagram",
+     "tiktok",
+     "snapchat",
+     "facebook",
+     "youtube",
+     "x",
+     "reddit"
+    ]
+   }
+  ],
+  "curatedBy": "template",
+  "at": "2026-11-26T19:56:06.351Z"
+ },
+ {
   "date": "2026-11-25",
   "country": "Korean",
   "picks": [

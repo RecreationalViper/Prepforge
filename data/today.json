@@ -1,12 +1,12 @@
 {
- "date": "2026-11-25",
- "country": "Korean",
+ "date": "2026-11-26",
+ "country": "Tunisia",
  "picks": [
   {
    "slot": "Breakfast",
-   "id": "avocado-toast",
-   "note": "Taste first. Smash avocado with lime and salt.",
-   "seo": "Avocado Toast, Chili Crisp: 7-Minute American Recipe",
+   "id": "soft-scramble",
+   "note": "Taste first. Melt half the butter over low heat; add eggs.",
+   "seo": "Soft Scramble, Chive Butter: 8-Minute French Recipe",
    "missingVideos": [
     "instagram",
     "tiktok",
@@ -19,9 +19,9 @@
   },
   {
    "slot": "Lunch",
-   "id": "chicken-grain-bowl",
-   "note": "Taste first. Season thighs with paprika and salt; sear 6 minutes per side.",
-   "seo": "Charred Chicken Grain Bowl: 30-Minute Mediterranean Recipe",
+   "id": "turkey-lettuce-cups",
+   "note": "Taste first. Add ginger and garlic for 1 minute.",
+   "seo": "Ginger Turkey Lettuce Cups: 18-Minute Thai Recipe",
    "missingVideos": [
     "instagram",
     "tiktok",
@@ -34,9 +34,9 @@
   },
   {
    "slot": "Dinner",
-   "id": "pad-krapow",
-   "note": "Taste first. Fry paste briefly, add chicken and sear hard.",
-   "seo": "Pad Krapow Gai: 20-Minute Thai Recipe",
+   "id": "sheet-pan-gnocchi",
+   "note": "Taste first. Toss gnocchi, tomatoes and onion with oil and salt on a sheet pan.",
+   "seo": "Crispy Sheet-Pan Gnocchi: 25-Minute Italian Recipe",
    "missingVideos": [
     "instagram",
     "tiktok",
@@ -49,9 +49,9 @@
   },
   {
    "slot": "Snack",
-   "id": "apple-almond",
-   "note": "Taste first. Drizzle almond butter and dust with cinnamon.",
-   "seo": "Apple, Almond Butter, Cinnamon: 3-Minute American Recipe",
+   "id": "cottage-berry",
+   "note": "Taste first. Top with berries and a little honey.",
+   "seo": "Whipped Cottage Cheese, Berries: 4-Minute American Recipe",
    "missingVideos": [
     "instagram",
     "tiktok",
@@ -64,9 +64,9 @@
   },
   {
    "slot": "Snack",
-   "id": "cucumber-tzatziki",
-   "note": "Taste first. Stir into yogurt with grated garlic, dill and lemon.",
-   "seo": "Cucumber Spears, Tzatziki: 8-Minute Greek Recipe",
+   "id": "edamame-sea-salt",
+   "note": "Taste first. Add edamame and char 4 minutes, tossing.",
+   "seo": "Blistered Edamame: 6-Minute Japanese Recipe",
    "missingVideos": [
     "instagram",
     "tiktok",
@@ -78,10 +78,10 @@
    ]
   },
   {
-   "slot": "World · Korean",
-   "id": "bibimbap",
-   "note": "Taste first. Quickly sauté each vegetable separately with sesame oil and salt.",
-   "seo": "Weeknight Bibimbap: 30-Minute Korean Recipe",
+   "slot": "World · Tunisia",
+   "id": "shakshuka",
+   "note": "Taste first. Add garlic, paprika and cumin for 30 seconds.",
+   "seo": "Weeknight Shakshuka: 14-Minute Tunisian Recipe",
    "missingVideos": [
     "instagram",
     "tiktok",
@@ -94,5 +94,5 @@
   }
  ],
  "curatedBy": "template",
- "at": "2026-11-26T04:41:18.227Z"
+ "at": "2026-11-26T19:56:06.351Z"
 }
