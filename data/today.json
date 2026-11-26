@@ -1,0 +1,98 @@
+{
+ "date": "2026-11-25",
+ "country": "Korean",
+ "picks": [
+  {
+   "slot": "Breakfast",
+   "id": "avocado-toast",
+   "note": "Taste first. Smash avocado with lime and salt.",
+   "seo": "Avocado Toast, Chili Crisp: 7-Minute American Recipe",
+   "missingVideos": [
+    "instagram",
+    "tiktok",
+    "snapchat",
+    "facebook",
+    "youtube",
+    "x",
+    "reddit"
+   ]
+  },
+  {
+   "slot": "Lunch",
+   "id": "chicken-grain-bowl",
+   "note": "Taste first. Season thighs with paprika and salt; sear 6 minutes per side.",
+   "seo": "Charred Chicken Grain Bowl: 30-Minute Mediterranean Recipe",
+   "missingVideos": [
+    "instagram",
+    "tiktok",
+    "snapchat",
+    "facebook",
+    "youtube",
+    "x",
+    "reddit"
+   ]
+  },
+  {
+   "slot": "Dinner",
+   "id": "pad-krapow",
+   "note": "Taste first. Fry paste briefly, add chicken and sear hard.",
+   "seo": "Pad Krapow Gai: 20-Minute Thai Recipe",
+   "missingVideos": [
+    "instagram",
+    "tiktok",
+    "snapchat",
+    "facebook",
+    "youtube",
+    "x",
+    "reddit"
+   ]
+  },
+  {
+   "slot": "Snack",
+   "id": "apple-almond",
+   "note": "Taste first. Drizzle almond butter and dust with cinnamon.",
+   "seo": "Apple, Almond Butter, Cinnamon: 3-Minute American Recipe",
+   "missingVideos": [
+    "instagram",
+    "tiktok",
+    "snapchat",
+    "facebook",
+    "youtube",
+    "x",
+    "reddit"
+   ]
+  },
+  {
+   "slot": "Snack",
+   "id": "cucumber-tzatziki",
+   "note": "Taste first. Stir into yogurt with grated garlic, dill and lemon.",
+   "seo": "Cucumber Spears, Tzatziki: 8-Minute Greek Recipe",
+   "missingVideos": [
+    "instagram",
+    "tiktok",
+    "snapchat",
+    "facebook",
+    "youtube",
+    "x",
+    "reddit"
+   ]
+  },
+  {
+   "slot": "World · Korean",
+   "id": "bibimbap",
+   "note": "Taste first. Quickly sauté each vegetable separately with sesame oil and salt.",
+   "seo": "Weeknight Bibimbap: 30-Minute Korean Recipe",
+   "missingVideos": [
+    "instagram",
+    "tiktok",
+    "snapchat",
+    "facebook",
+    "youtube",
+    "x",
+    "reddit"
+   ]
+  }
+ ],
+ "curatedBy": "template",
+ "at": "2026-11-26T03:58:40.451Z"
+}

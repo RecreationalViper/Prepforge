@@ -1,0 +1,1329 @@
+[
+ {
+  "id": "soft-scramble",
+  "title": "Soft Scramble, Chive Butter",
+  "blurb": "Low heat, constant motion, custard-soft curds.",
+  "meal": "breakfast",
+  "cuisine": "French",
+  "minutes": 8,
+  "servings": 1,
+  "kcal": 340,
+  "protein": 20,
+  "level": "easy",
+  "moment": "butter folding into glossy soft curds in a pan",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "eggs",
+   "quick"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "eggs",
+    "qty": 3,
+    "unit": "",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "butter",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "chives",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Produce"
+   },
+   {
+    "item": "sourdough",
+    "qty": 1,
+    "unit": "slice",
+    "aisle": "Bakery"
+   },
+   {
+    "item": "flaky salt",
+    "qty": 1,
+    "unit": "pinch",
+    "aisle": "Spices"
+   }
+  ],
+  "steps": [
+   "Whisk eggs with a pinch of salt until no streaks remain.",
+   "Melt half the butter over low heat; add eggs.",
+   "Stir slowly with a spatula, pulling curds from the edges, 4 to 5 minutes.",
+   "Pull off heat while still wet; fold in remaining butter and chives.",
+   "Serve on toasted sourdough, finish with flaky salt."
+  ]
+ },
+ {
+  "id": "greek-yogurt-bowl",
+  "title": "Honeyed Yogurt, Toasted Oats",
+  "blurb": "Thick yogurt, warm oat crunch, a thread of honey.",
+  "meal": "breakfast",
+  "cuisine": "Greek",
+  "minutes": 6,
+  "servings": 1,
+  "kcal": 380,
+  "protein": 24,
+  "level": "easy",
+  "moment": "honey drizzling over thick yogurt with toasted oats",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "no-cook"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "Greek yogurt",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "rolled oats",
+    "qty": 0.25,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "honey",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "berries",
+    "qty": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "walnuts",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Toast oats and walnuts in a dry pan until fragrant, 3 minutes.",
+   "Spoon yogurt into a wide bowl and swoosh with the back of the spoon.",
+   "Top with berries and the warm oat crunch.",
+   "Finish with honey."
+  ]
+ },
+ {
+  "id": "shakshuka",
+  "title": "Weeknight Shakshuka",
+  "blurb": "Jammy eggs in a smoky pepper sauce.",
+  "meal": "breakfast",
+  "cuisine": "Tunisian",
+  "minutes": 14,
+  "servings": 2,
+  "kcal": 320,
+  "protein": 18,
+  "level": "easy",
+  "moment": "spoon breaking a jammy egg yolk in red pepper sauce",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "one-pan",
+   "eggs"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "eggs",
+    "qty": 4,
+    "unit": "",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "crushed tomatoes",
+    "qty": 14,
+    "unit": "oz",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "red bell pepper",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "onion",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "garlic",
+    "qty": 2,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "smoked paprika",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "cumin",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "feta",
+    "qty": 2,
+    "unit": "oz",
+    "aisle": "Dairy & Eggs"
+   }
+  ],
+  "steps": [
+   "Soften sliced onion and pepper in olive oil, 5 minutes.",
+   "Add garlic, paprika and cumin for 30 seconds.",
+   "Pour in tomatoes, simmer 4 minutes.",
+   "Make 4 wells, crack in eggs, cover 4 to 5 minutes.",
+   "Crumble feta over and serve with bread."
+  ]
+ },
+ {
+  "id": "avocado-toast",
+  "title": "Avocado Toast, Chili Crisp",
+  "blurb": "Bright lime, cool avocado, slow heat.",
+  "meal": "breakfast",
+  "cuisine": "American",
+  "minutes": 7,
+  "servings": 1,
+  "kcal": 410,
+  "protein": 16,
+  "level": "easy",
+  "moment": "chili crisp spooned over smashed avocado on toast",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "quick"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "avocado",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "sourdough",
+    "qty": 2,
+    "unit": "slices",
+    "aisle": "Bakery"
+   },
+   {
+    "item": "lime",
+    "qty": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "chili crisp",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "eggs",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Dairy & Eggs"
+   }
+  ],
+  "steps": [
+   "Toast bread until deeply golden.",
+   "Smash avocado with lime and salt.",
+   "Fry the egg until the edges lace.",
+   "Layer avocado, egg, then chili crisp."
+  ]
+ },
+ {
+  "id": "chicken-grain-bowl",
+  "title": "Charred Chicken Grain Bowl",
+  "blurb": "Smoky thighs, herbed farro, lemon tahini.",
+  "meal": "lunch",
+  "cuisine": "Mediterranean",
+  "minutes": 30,
+  "servings": 2,
+  "kcal": 610,
+  "protein": 38,
+  "level": "easy",
+  "moment": "slicing charred chicken thighs over a grain bowl",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "meal-prep"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "chicken thighs",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "farro",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "cucumber",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "cherry tomatoes",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "tahini",
+    "qty": 3,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "lemon",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "parsley",
+    "qty": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "smoked paprika",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Spices"
+   }
+  ],
+  "steps": [
+   "Simmer farro in salted water until tender, about 25 minutes.",
+   "Season thighs with paprika and salt; sear 6 minutes per side.",
+   "Whisk tahini with lemon juice and water until pourable.",
+   "Toss farro with parsley; top with chicken, cucumber and tomatoes.",
+   "Drizzle tahini over everything."
+  ]
+ },
+ {
+  "id": "salmon-rice-bowl",
+  "title": "Miso Salmon Rice Bowl",
+  "blurb": "Glazed salmon, sesame cucumbers, warm rice.",
+  "meal": "lunch",
+  "cuisine": "Japanese",
+  "minutes": 25,
+  "servings": 2,
+  "kcal": 590,
+  "protein": 36,
+  "level": "easy",
+  "moment": "flaking glossy miso-glazed salmon over rice",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "fish"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "salmon fillets",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "white miso",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "rice",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "cucumber",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "rice vinegar",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "sesame seeds",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "scallions",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Cook rice.",
+   "Stir miso with a splash of water and brush over salmon.",
+   "Broil 8 to 10 minutes until the glaze blisters.",
+   "Toss sliced cucumber with vinegar and sesame.",
+   "Build bowls and top with scallions."
+  ]
+ },
+ {
+  "id": "turkey-lettuce-cups",
+  "title": "Ginger Turkey Lettuce Cups",
+  "blurb": "Crisp, savory, gone in minutes.",
+  "meal": "lunch",
+  "cuisine": "Thai",
+  "minutes": 18,
+  "servings": 2,
+  "kcal": 420,
+  "protein": 34,
+  "level": "easy",
+  "moment": "spooning sizzling ginger turkey into crisp lettuce cups",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "low-carb",
+   "quick"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "ground turkey",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "butter lettuce",
+    "qty": 1,
+    "unit": "head",
+    "aisle": "Produce"
+   },
+   {
+    "item": "ginger",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Produce"
+   },
+   {
+    "item": "garlic",
+    "qty": 2,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "soy sauce",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "lime",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "peanuts",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Sear turkey hard in a hot pan, breaking it up.",
+   "Add ginger and garlic for 1 minute.",
+   "Season with soy and lime.",
+   "Spoon into lettuce cups; top with crushed peanuts."
+  ]
+ },
+ {
+  "id": "white-bean-tuna",
+  "title": "Tuna & White Bean Salad",
+  "blurb": "Pantry lunch that eats like a café.",
+  "meal": "lunch",
+  "cuisine": "Italian",
+  "minutes": 10,
+  "servings": 2,
+  "kcal": 480,
+  "protein": 33,
+  "level": "easy",
+  "moment": "olive oil pouring over tuna and white beans",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "no-cook",
+   "pantry"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "oil-packed tuna",
+    "qty": 2,
+    "unit": "cans",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "cannellini beans",
+    "qty": 1,
+    "unit": "can",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "red onion",
+    "qty": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "arugula",
+    "qty": 2,
+    "unit": "cups",
+    "aisle": "Produce"
+   },
+   {
+    "item": "lemon",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "capers",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Rinse beans; thinly slice the onion.",
+   "Toss beans, onion, capers with lemon and olive oil.",
+   "Fold in tuna in big flakes.",
+   "Serve over arugula."
+  ]
+ },
+ {
+  "id": "steak-chimichurri",
+  "title": "Seared Steak, Chimichurri",
+  "blurb": "Crust, rest, slice. A green sauce that wakes it up.",
+  "meal": "dinner",
+  "cuisine": "Argentine",
+  "minutes": 25,
+  "servings": 2,
+  "kcal": 640,
+  "protein": 44,
+  "level": "medium",
+  "moment": "slicing a rested steak to reveal a rosy center",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "date-night"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "strip steak",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "parsley",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "oregano",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "garlic",
+    "qty": 2,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "red wine vinegar",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "red pepper flakes",
+    "qty": 0.5,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "baby potatoes",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Roast halved potatoes at 425°F for 20 minutes.",
+   "Chop parsley, garlic, oregano; stir with vinegar, oil and chili flakes.",
+   "Salt steak well; sear 3 to 4 minutes per side in a smoking pan.",
+   "Rest 8 minutes, slice against the grain.",
+   "Spoon chimichurri over steak and potatoes."
+  ]
+ },
+ {
+  "id": "lemon-pasta",
+  "title": "Lemon Butter Pasta",
+  "blurb": "Glossy, bright, silk-textured.",
+  "meal": "dinner",
+  "cuisine": "Italian",
+  "minutes": 18,
+  "servings": 2,
+  "kcal": 560,
+  "protein": 18,
+  "level": "easy",
+  "moment": "tossing glossy lemon butter pasta in a pan",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "vegetarian",
+   "quick"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "spaghetti",
+    "qty": 8,
+    "unit": "oz",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "butter",
+    "qty": 3,
+    "unit": "tbsp",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "lemon",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "parmesan",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "black pepper",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Spices"
+   }
+  ],
+  "steps": [
+   "Boil pasta in well-salted water; save 1 cup of pasta water.",
+   "Melt butter with lemon zest.",
+   "Add pasta, lemon juice and a splash of water; toss hard.",
+   "Add parmesan off heat, tossing until glossy.",
+   "Finish with black pepper."
+  ]
+ },
+ {
+  "id": "coconut-curry",
+  "title": "Coconut Chickpea Curry",
+  "blurb": "Warm spice, silky coconut, ready in one pot.",
+  "meal": "dinner",
+  "cuisine": "Indian",
+  "minutes": 30,
+  "servings": 4,
+  "kcal": 480,
+  "protein": 16,
+  "level": "easy",
+  "moment": "swirling coconut milk into golden chickpea curry",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "vegan",
+   "one-pot"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "chickpeas",
+    "qty": 2,
+    "unit": "cans",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "coconut milk",
+    "qty": 1,
+    "unit": "can",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "onion",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "garlic",
+    "qty": 3,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "ginger",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Produce"
+   },
+   {
+    "item": "garam masala",
+    "qty": 2,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "turmeric",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "spinach",
+    "qty": 3,
+    "unit": "cups",
+    "aisle": "Produce"
+   },
+   {
+    "item": "rice",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Cook onion until golden, 8 minutes.",
+   "Add garlic, ginger and spices for 1 minute.",
+   "Add chickpeas and coconut milk; simmer 15 minutes.",
+   "Wilt in spinach and season.",
+   "Serve over rice."
+  ]
+ },
+ {
+  "id": "sheet-pan-gnocchi",
+  "title": "Crispy Sheet-Pan Gnocchi",
+  "blurb": "Golden edges, blistered tomatoes, zero babysitting.",
+  "meal": "dinner",
+  "cuisine": "Italian",
+  "minutes": 25,
+  "servings": 2,
+  "kcal": 520,
+  "protein": 17,
+  "level": "easy",
+  "moment": "pulling a sheet pan of crispy gnocchi and blistered tomatoes",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "sheet-pan"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "shelf-stable gnocchi",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "cherry tomatoes",
+    "qty": 2,
+    "unit": "cups",
+    "aisle": "Produce"
+   },
+   {
+    "item": "red onion",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "mozzarella pearls",
+    "qty": 4,
+    "unit": "oz",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "basil",
+    "qty": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Heat oven to 450°F.",
+   "Toss gnocchi, tomatoes and onion with oil and salt on a sheet pan.",
+   "Roast 20 minutes, shaking once.",
+   "Scatter mozzarella; return 3 minutes.",
+   "Finish with basil."
+  ]
+ },
+ {
+  "id": "garlic-shrimp",
+  "title": "Garlic Butter Shrimp",
+  "blurb": "Sizzle, baste, done in ten.",
+  "meal": "dinner",
+  "cuisine": "Spanish",
+  "minutes": 12,
+  "servings": 2,
+  "kcal": 430,
+  "protein": 39,
+  "level": "easy",
+  "moment": "shrimp sizzling in garlic butter in a cast iron pan",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "quick",
+   "seafood"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "shrimp",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "butter",
+    "qty": 3,
+    "unit": "tbsp",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "garlic",
+    "qty": 5,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "lemon",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "parsley",
+    "qty": 0.25,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "crusty bread",
+    "qty": 1,
+    "unit": "loaf",
+    "aisle": "Bakery"
+   }
+  ],
+  "steps": [
+   "Pat shrimp very dry and salt them.",
+   "Sear in a hot pan 1 minute per side; remove.",
+   "Melt butter with sliced garlic until golden.",
+   "Return shrimp, add lemon and parsley.",
+   "Serve with bread for the butter."
+  ]
+ },
+ {
+  "id": "edamame-sea-salt",
+  "title": "Blistered Edamame",
+  "blurb": "Smoky pods, flaky salt, a little chili.",
+  "meal": "snack",
+  "cuisine": "Japanese",
+  "minutes": 6,
+  "servings": 2,
+  "kcal": 150,
+  "protein": 12,
+  "level": "easy",
+  "moment": "edamame pods blistering in a hot pan",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "quick"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "frozen edamame in pods",
+    "qty": 2,
+    "unit": "cups",
+    "aisle": "Frozen"
+   },
+   {
+    "item": "flaky salt",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "chili flakes",
+    "qty": 0.25,
+    "unit": "tsp",
+    "aisle": "Spices"
+   }
+  ],
+  "steps": [
+   "Heat a dry pan until very hot.",
+   "Add edamame and char 4 minutes, tossing.",
+   "Finish with salt and chili."
+  ]
+ },
+ {
+  "id": "cottage-berry",
+  "title": "Whipped Cottage Cheese, Berries",
+  "blurb": "Silky, cool, quietly filling.",
+  "meal": "snack",
+  "cuisine": "American",
+  "minutes": 4,
+  "servings": 1,
+  "kcal": 190,
+  "protein": 18,
+  "level": "easy",
+  "moment": "spooning berries onto whipped cottage cheese",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "no-cook"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "cottage cheese",
+    "qty": 0.75,
+    "unit": "cup",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "berries",
+    "qty": 0.5,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "honey",
+    "qty": 1,
+    "unit": "tsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Blend cottage cheese until completely smooth.",
+   "Top with berries and a little honey."
+  ]
+ },
+ {
+  "id": "apple-almond",
+  "title": "Apple, Almond Butter, Cinnamon",
+  "blurb": "Crisp, creamy, done.",
+  "meal": "snack",
+  "cuisine": "American",
+  "minutes": 3,
+  "servings": 1,
+  "kcal": 180,
+  "protein": 5,
+  "level": "easy",
+  "moment": "almond butter drizzling over thin apple slices",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "no-cook"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "apple",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "almond butter",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "cinnamon",
+    "qty": 1,
+    "unit": "pinch",
+    "aisle": "Spices"
+   }
+  ],
+  "steps": [
+   "Slice apple thin.",
+   "Drizzle almond butter and dust with cinnamon."
+  ]
+ },
+ {
+  "id": "cucumber-tzatziki",
+  "title": "Cucumber Spears, Tzatziki",
+  "blurb": "Cool and garlicky.",
+  "meal": "snack",
+  "cuisine": "Greek",
+  "minutes": 8,
+  "servings": 2,
+  "kcal": 120,
+  "protein": 9,
+  "level": "easy",
+  "moment": "dragging a cucumber spear through thick tzatziki",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "no-cook"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "cucumber",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "Greek yogurt",
+    "qty": 0.75,
+    "unit": "cup",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "garlic",
+    "qty": 1,
+    "unit": "clove",
+    "aisle": "Produce"
+   },
+   {
+    "item": "dill",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Produce"
+   },
+   {
+    "item": "lemon",
+    "qty": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Grate half a cucumber and squeeze it dry.",
+   "Stir into yogurt with grated garlic, dill and lemon.",
+   "Cut the rest into spears for dipping."
+  ]
+ },
+ {
+  "id": "pad-krapow",
+  "title": "Pad Krapow Gai",
+  "blurb": "Thai basil chicken, fried egg, jasmine rice.",
+  "meal": "dinner",
+  "cuisine": "Thai",
+  "minutes": 20,
+  "servings": 2,
+  "kcal": 580,
+  "protein": 37,
+  "level": "medium",
+  "moment": "a crispy fried egg sliding onto basil chicken and rice",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "world"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "ground chicken",
+    "qty": 1,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "Thai basil",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "bird's eye chilies",
+    "qty": 3,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "garlic",
+    "qty": 4,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "oyster sauce",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "fish sauce",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "eggs",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "jasmine rice",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Pound garlic and chilies to a rough paste.",
+   "Fry paste briefly, add chicken and sear hard.",
+   "Season with oyster and fish sauce; toss in basil.",
+   "Fry eggs in hot oil until the edges crisp.",
+   "Serve over rice, egg on top."
+  ]
+ },
+ {
+  "id": "chicken-shawarma",
+  "title": "Sheet-Pan Chicken Shawarma",
+  "blurb": "Warm spice, charred edges, garlic sauce.",
+  "meal": "dinner",
+  "cuisine": "Lebanese",
+  "minutes": 35,
+  "servings": 4,
+  "kcal": 540,
+  "protein": 42,
+  "level": "easy",
+  "moment": "charred shawarma chicken piled into warm flatbread",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "world",
+   "sheet-pan"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "chicken thighs",
+    "qty": 2,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "cumin",
+    "qty": 2,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "coriander",
+    "qty": 2,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "smoked paprika",
+    "qty": 2,
+    "unit": "tsp",
+    "aisle": "Spices"
+   },
+   {
+    "item": "Greek yogurt",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "garlic",
+    "qty": 3,
+    "unit": "cloves",
+    "aisle": "Produce"
+   },
+   {
+    "item": "flatbreads",
+    "qty": 4,
+    "unit": "",
+    "aisle": "Bakery"
+   },
+   {
+    "item": "red onion",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Toss chicken with spices, oil and salt.",
+   "Roast at 450°F for 25 minutes with sliced onion.",
+   "Stir grated garlic into yogurt with lemon.",
+   "Slice chicken; pile into warm flatbreads with sauce."
+  ]
+ },
+ {
+  "id": "tacos-al-pastor",
+  "title": "Skillet Al Pastor Tacos",
+  "blurb": "Achiote pork, charred pineapple, cilantro.",
+  "meal": "dinner",
+  "cuisine": "Mexican",
+  "minutes": 30,
+  "servings": 4,
+  "kcal": 520,
+  "protein": 33,
+  "level": "medium",
+  "moment": "charred pineapple falling onto al pastor tacos",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "world"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "pork shoulder",
+    "qty": 1.5,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "achiote paste",
+    "qty": 2,
+    "unit": "oz",
+    "aisle": "Spices"
+   },
+   {
+    "item": "pineapple",
+    "qty": 0.5,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "corn tortillas",
+    "qty": 12,
+    "unit": "",
+    "aisle": "Bakery"
+   },
+   {
+    "item": "white onion",
+    "qty": 1,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "cilantro",
+    "qty": 1,
+    "unit": "bunch",
+    "aisle": "Produce"
+   },
+   {
+    "item": "lime",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Produce"
+   }
+  ],
+  "steps": [
+   "Slice pork thin; marinate with achiote, lime and salt.",
+   "Sear in batches until edges char.",
+   "Char pineapple slices; dice.",
+   "Warm tortillas; fill with pork, pineapple, onion and cilantro."
+  ]
+ },
+ {
+  "id": "bibimbap",
+  "title": "Weeknight Bibimbap",
+  "blurb": "Crispy rice, bright vegetables, gochujang.",
+  "meal": "dinner",
+  "cuisine": "Korean",
+  "minutes": 30,
+  "servings": 2,
+  "kcal": 610,
+  "protein": 28,
+  "level": "medium",
+  "moment": "mixing a runny egg yolk into a sizzling bibimbap bowl",
+  "author": "PrepForge Kitchen",
+  "tags": [
+   "world"
+  ],
+  "videos": {},
+  "ingredients": [
+   {
+    "item": "rice",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "ground beef",
+    "qty": 0.5,
+    "unit": "lb",
+    "aisle": "Meat & Fish"
+   },
+   {
+    "item": "spinach",
+    "qty": 3,
+    "unit": "cups",
+    "aisle": "Produce"
+   },
+   {
+    "item": "carrots",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Produce"
+   },
+   {
+    "item": "bean sprouts",
+    "qty": 1,
+    "unit": "cup",
+    "aisle": "Produce"
+   },
+   {
+    "item": "eggs",
+    "qty": 2,
+    "unit": "",
+    "aisle": "Dairy & Eggs"
+   },
+   {
+    "item": "gochujang",
+    "qty": 2,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   },
+   {
+    "item": "sesame oil",
+    "qty": 1,
+    "unit": "tbsp",
+    "aisle": "Pantry"
+   }
+  ],
+  "steps": [
+   "Cook rice.",
+   "Quickly sauté each vegetable separately with sesame oil and salt.",
+   "Brown beef with a spoon of gochujang.",
+   "Crisp rice in an oiled pan, arrange toppings, crown with a fried egg.",
+   "Mix at the table."
+  ]
+ }
+]

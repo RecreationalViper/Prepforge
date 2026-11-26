@@ -1,0 +1,47 @@
+name: Build & ship PrepForge
+# Every push ships the app to GitHub Pages. Every morning at 6:00 a.m. Eastern the Daily Curator
+# sets Today's Table first, commits it, and then the app is rebuilt with the new picks.
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 11 * * *" # 6:00 AM Eastern (EST); 7:00 during daylight time
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: { group: ship, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - name: Daily Curator (mornings and manual runs)
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          node scripts/curate.mjs
+          git config user.name "PrepForge Curator"; git config user.email "curator@users.noreply.github.com"
+          git add data/ && (git diff --cached --quiet || (git commit -m "Today's Table $(date -u +%F)" && git push))
+      - run: npm install --no-audit --no-fund
+      - run: npm run build
+        env:
+          NEXT_PUBLIC_CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
+      - run: touch out/.nojekyll
+      - uses: actions/configure-pages@v5
+        with: { enablement: true }
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: out }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
